@@ -1,0 +1,9 @@
+#rainbow{
+  height: 1000px;
+  background-color: red;
+  background-image: linear-gradient(to right, Red , Orange, Yellow, Green, Blue, Indigo, Violet);
+}
+
+
+
+.p1{text-align:center;font-size: 40px;background-color:yellow;}
